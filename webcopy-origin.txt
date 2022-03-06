@@ -1,0 +1,336 @@
+Uri: https://cdn.thisiswaldo.com/static/js/4645.js
+File Name: C:\Downloaded Web Sites\cssgradient.io\static\js\4645.js
+Content Type: application/javascript
+
+Uri: https://config.confirmic.com/config.js?id=prj:17939cfe-430b-41b9-b63a-a3ce3f1f21fe
+File Name: C:\Downloaded Web Sites\cssgradient.io\config.js
+Content Type: application/javascript
+
+Uri: https://consent-manager.confirmic.com/embed.js
+File Name: C:\Downloaded Web Sites\cssgradient.io\embed.js
+Content Type: text/javascript
+
+Uri: https://cssgradient.io/
+File Name: C:\Downloaded Web Sites\cssgradient.io\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/css-gradient-examples/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\css-gradient-examples\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/css-gradient-text/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\css-gradient-text\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/gradient-patterns/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\gradient-patterns\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/how-to-create-a-gradient-background/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\how-to-create-a-gradient-background\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/how-to-create-a-gradient-in-photoshop/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\how-to-create-a-gradient-in-photoshop\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/how-to-create-a-gradient-in-powerpoint/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\how-to-create-a-gradient-in-powerpoint\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/linear-gradient-css/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\linear-gradient-css\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/radial-gradient-css/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\radial-gradient-css\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/blog/repeating-linear-gradient-css/
+File Name: C:\Downloaded Web Sites\cssgradient.io\blog\repeating-linear-gradient-css\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/color-shades/
+File Name: C:\Downloaded Web Sites\cssgradient.io\color-shades\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/gradient-backgrounds/
+File Name: C:\Downloaded Web Sites\cssgradient.io\gradient-backgrounds\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/images/backgrounds/colorful-d23acca8.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\colorful-d23acca8.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/coolhue-be999676.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\coolhue-be999676.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/grabient-cadd65a0.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\grabient-cadd65a0.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/gradientbuttons-61e2ba25.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\gradientbuttons-61e2ba25.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/gradienthunt-66034517.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\gradienthunt-66034517.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/uigradients-1966d4c8.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\uigradients-1966d4c8.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/backgrounds/webgradients-da2d393a.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\backgrounds\webgradients-da2d393a.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/css-gradient-blog-41cf9bd8.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\css-gradient-blog-41cf9bd8.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/css-gradient-examples-ba7f335a.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\css-gradient-examples-ba7f335a.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/css-gradient-resources-6e1f3dcf.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\css-gradient-resources-6e1f3dcf.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/css-gradient-swatches-80de4710.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\css-gradient-swatches-80de4710.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/examples/3d-for-designers-form-bab3e03b.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\3d-for-designers-form-bab3e03b.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/3d-for-designers-header-4555967b.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\3d-for-designers-header-4555967b.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/algolia-button-03fd1304.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\algolia-button-03fd1304.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/baremetrics-b9ff4589.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\baremetrics-b9ff4589.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/ethworks-93e51c42.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\ethworks-93e51c42.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/indie-hackers-button-cf2e5e6c.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\indie-hackers-button-cf2e5e6c.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/instagram-brand-d62a0257.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\instagram-brand-d62a0257.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/instagram-logo-b6af74d3.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\instagram-logo-b6af74d3.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/mixpanel-homepage-475e197e.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\mixpanel-homepage-475e197e.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/polygon-f4aa72cf.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\polygon-f4aa72cf.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/scale-homepage-43b0cdc9.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\scale-homepage-43b0cdc9.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/spectrum-chat-homepage-8a13ae1c.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\spectrum-chat-homepage-8a13ae1c.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/spectrum-chat-search-601dfd67.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\spectrum-chat-search-601dfd67.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/stripe-connect-5ef5488d.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\stripe-connect-5ef5488d.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/stripe-homepage-78286d08.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\stripe-homepage-78286d08.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/examples/stripe-payments-7d1a4258.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\examples\stripe-payments-7d1a4258.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/facebook-1e93cf44.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\facebook-1e93cf44.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/favicon-23859487.png
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\favicon-23859487.png
+Content Type: image/png
+
+Uri: https://cssgradient.io/images/google-a3e3de7f.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\google-a3e3de7f.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/gradient-backgrounds-7e48e971.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\gradient-backgrounds-7e48e971.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/logo-55c31c59.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\logo-55c31c59.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/resources/deep-dive-linear-gradients-88d7a6f2.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\resources\deep-dive-linear-gradients-88d7a6f2.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/resources/easing-linear-gradients-8af5482f.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\resources\easing-linear-gradients-8af5482f.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/resources/gradient-calculation-73345f0f.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\resources\gradient-calculation-73345f0f.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/resources/mdn-gradients-80845d9e.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\resources\mdn-gradients-80845d9e.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/resources/w3c-gradient-df2b3527.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\resources\w3c-gradient-df2b3527.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/color-shades-9de2a05b.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\color-shades-9de2a05b.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/images/shades/shades-of-blue-0b3bd5ae.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-blue-0b3bd5ae.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/shades-of-green-abbb8387.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-green-abbb8387.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/shades-of-pink-6363cbbb.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-pink-6363cbbb.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/shades-of-purple-5cf5abd6.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-purple-5cf5abd6.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/shades-of-red-5c4b919c.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-red-5c4b919c.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/shades/shades-of-yellow-d7cd4d04.jpg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\shades\shades-of-yellow-d7cd4d04.jpg
+Content Type: image/jpeg
+
+Uri: https://cssgradient.io/images/twitter-db3b0b72.svg
+File Name: C:\Downloaded Web Sites\cssgradient.io\images\twitter-db3b0b72.svg
+Content Type: image/svg+xml
+
+Uri: https://cssgradient.io/javascripts/application-e0c22058.js
+File Name: C:\Downloaded Web Sites\cssgradient.io\javascripts\application-e0c22058.js
+Content Type: application/javascript
+
+Uri: https://cssgradient.io/privacy-policy/
+File Name: C:\Downloaded Web Sites\cssgradient.io\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/resources/
+File Name: C:\Downloaded Web Sites\cssgradient.io\resources\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-blue/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-blue\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-green/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-green\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-pink/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-pink\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-purple/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-purple\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-red/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-red\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/shades-of-yellow/
+File Name: C:\Downloaded Web Sites\cssgradient.io\shades-of-yellow\index.htm
+Content Type: text/html
+
+Uri: https://cssgradient.io/sitemap.xml
+File Name: C:\Downloaded Web Sites\cssgradient.io\sitemap.xml
+Content Type: application/xml
+
+Uri: https://cssgradient.io/stylesheets/application-8c099f85.css
+File Name: C:\Downloaded Web Sites\cssgradient.io\stylesheets\application-8c099f85.css
+Content Type: text/css
+
+Uri: https://cssgradient.io/swatches/
+File Name: C:\Downloaded Web Sites\cssgradient.io\swatches\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\cssgradient.io\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:400,500,600,700,800
+File Name: C:\Downloaded Web Sites\cssgradient.io\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K3vXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K67QBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K8nQBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v16/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+File Name: C:\Downloaded Web Sites\cssgradient.io\s\worksans\v16\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32KxfXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fcssgradient.io&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cssgradient.io\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\cssgradient.io\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-113061555-1
+File Name: C:\Downloaded Web Sites\cssgradient.io\gtag\js
+Content Type: application/javascript
+
